@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarushi 👩🏽‍💻</h1>
 <h3 align="center">A passionate developer based in San Jose</h3>
 
-- 🔭 I’m currently working on [an Order Delivery Client](https://github.com/BloomTechBackend/bd-intermediate-java-project-AarushiDhanger)
+- 🔭 I’m currently working on an [Order Delivery Client](https://github.com/BloomTechBackend/bd-intermediate-java-project-AarushiDhanger)
 
 - 🌱 I’m currently learning **AWS, NoSQL, and DynamoDB**
 
