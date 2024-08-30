@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarushi 👩🏽‍💻</h1>
 <h3 align="center">A passionate developer based in San Jose</h3>
 
-- 🔭 I’m currently working on [Playlist Service]https://github.com/AarushiDhanger/music-playlist-service
+- 🔭 I’m currently working on [Playlist Service](https://github.com/AarushiDhanger/music-playlist-service)
 
 - 🌱 I’m currently learning **AWS, NoSQL, and DynamoDB**
 
